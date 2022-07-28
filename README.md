@@ -1,2 +1,2 @@
 # Fasta_file_editing
-Scripts for editing Python Files
+Scripts for editing FASTA and GB Files
